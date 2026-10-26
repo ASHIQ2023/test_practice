@@ -1,0 +1,18 @@
+# secrets
+.env
+
+# dependencies
+node_modules/
+
+# generated_files
+dist/
+build/
+
+#Logs
+*.log
+
+#pdf 
+*.pdf
+
+#vscode
+.vscode/
